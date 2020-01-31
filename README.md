@@ -1,8 +1,8 @@
 # Mans skolas projekts 
 ### Autors : MM  
 
-~ Super 
-~ Nice 
-~ Projekts 
+- Super 
+- Nice 
+- Projekts 
 
-:smile:
+:smile::smile::smile:
